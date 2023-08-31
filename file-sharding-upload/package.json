@@ -1,0 +1,11 @@
+{
+  "name": "file-sharding-upload",
+  "version": "1.0.0",
+  "description": "'基于axios封装的文件分片上传'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hongxiaochun77",
+  "license": "ISC"
+}
