@@ -34,7 +34,7 @@ let setWatermark = (str) => {
   return id
 }
 
-// 该方法只允许调用一次
+// 该方法只允许调用一次   
 watermark.set = (str) => {
   let id = setWatermark(str)
   setInterval(() => {
